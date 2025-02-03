@@ -1,0 +1,45 @@
+-->A maximum of two motors may be used to make the vehicle move forward or backward
+(i.e., driving the robot, these are the driving motors).
+
+-->The use of an electronic differentials with one motor per side (like in a differential
+wheeled robot) is not allowed.
+
+-->The vehicle’s dimensions must not exceed 300x200 mm and 300 mm in height.
+
+-->The weight of the vehicle must not exceed 1.5 kilograms.
+
+-->The vehicle must be a 4 wheeled vehicle with one driving axle and one steering actuator
+of any type. It must be either front-wheel drive (https://en.wikipedia.org/wiki/Frontwheel_drive), rear-wheel drive (https://en.wikipedia.org/wiki/Rear-wheel_drive) or fourwheel drive (https://en.wikipedia.org/wiki/Four-wheel_drive). Teams with vehicles that
+
+
+-->use the differential wheeled base
+(https://en.wikipedia.org/wiki/Differential_wheeled_robot) will be disqualified.
+
+-->. The vehicle cannot use any kind of an omnidirectional wheel, ball caster or spherical
+wheel. 
+
+
+-->Teams can use any sensors of their choice – there are no restrictions on brand, function
+or number of sensors used. Cameras are considered sensors. 
+
+-->Smartphones can be used as cameras and to process image data.
+
+-->##A vehicle must be autonomous and finish the “missions” by itself. Any radio
+communication, remote control, and wired control systems are not allowed while the
+vehicle is running. Teams in violation of this rule will be disqualified.##
+
+-->Teams can use any battery of their choice or number of batteries used
+
+-->The vehicle can be built using any type of hardware kits and any material. There is no
+restriction on a specific type or a specific building system.
+
+
+-->. Teams should bring enough spare parts. In the case of any accidents or equipment
+malfunction, WRO (and/or organizing committee) is not responsible for their
+maintenance or replacement.
+
+
+-->The team is allowed to have only one vehicle for competition day. No spare vehicles are
+allowed inside the competition area.
+
+
