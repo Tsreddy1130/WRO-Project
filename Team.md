@@ -12,3 +12,7 @@
 - 🎓 **B-TECH 1st Year**
 - 🏫 **Computer Science Engineering**
 - YOB **2006**
+Task Assignment :
+robot model designing --Dhigvijay
+computer vision -- Seshi reddy
+electronics circut and sensor -- Nthieesh
